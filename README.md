@@ -1,6 +1,6 @@
-# Statistical Portfolio
+# Statistical Work
 
-Clean, minimal portfolio showcasing applied statistics projects with focus on hypothesis testing, experimental design, and statistical validation.
+Collection showcasing applied statistics projects with focus on hypothesis testing, experimental design, and statistical validation.
 
 **Live Site:** [Your GitHub Pages URL here]
 
@@ -23,17 +23,6 @@ Analyzed 5,000+ transactions to diagnose 48% product return rate. Isolated defec
 
 **Methods:** Root cause analysis, statistical validation  
 **Tools:** SQL, Power BI
-
-## Tech Stack
-
-- **Design:** Pure HTML/CSS/JS (no frameworks)
-- **Color Scheme:** Charcoal + Copper
-- **Hosting:** GitHub Pages
-
-
-## License
-
-MIT License - feel free to use this structure for your own portfolio.
 
 ---
 
