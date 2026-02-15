@@ -2,7 +2,7 @@
 
 Collection showcasing applied statistics projects with focus on hypothesis testing, experimental design, and statistical validation.
 
-**Live Site:** [Your GitHub Pages URL here]
+
 
 ## Featured Work
 
